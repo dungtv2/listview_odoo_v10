@@ -1,12 +1,12 @@
 {
-    'name': 'Dynamic ListView v10 Alpha',
+    'name': 'Dynamic ListView Advance 10',
     'summary': 'Change The Odoo List view On the fly without any technical knowledge',
     'version': '1.0',
     'category': 'Web',
     'description': """
 
     """,
-    'author': "Hanel Software Solution",
+    'author': "Strong apps",
     'website': 'http://www.hanelsoft.vn/',
     'depends': ['web'],
     'data': ['templates.xml'],
